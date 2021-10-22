@@ -11,7 +11,7 @@
         "address": {
             "street": "2478 Via Espada",
             "city": "Pleasanton",
-            "state": "California",
+            "state": "CA",
             "zip": "94566"
         },
         "website": "https://www.papareact.com/course",
@@ -23,24 +23,29 @@
                 "className": "fa fa-facebook"
             },
             {
-                "name": "linkedin",
-                "url": "https://www.linkedin.com/in/kishanpatel97",
-                "className": "fa fa-linkedin"
-            },
-            {
                 "name": "instagram",
                 "url": "https://www.instagram.com/kishanpatel97/",
                 "className": "fa fa-instagram"
             },
             {
+                "name": "twitter",
+                "url": "https://twitter.com/kishanp97/",
+                "className": "fa fa-twitter"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/kishanpatel97/",
+                "className": "fa fa-linkedin"
+            },
+            {
                 "name": "github",
-                "url": "https://github.com/kishanpatel97",
+                "url": "https://www.github.com/kishanpatel97/",
                 "className": "fa fa-github"
             }
         ]
     },
     "resume": {
-        "skillmessage": "My Programming Language Proficiency",
+        "skillmessage": "My Notable Software Development Proficiencies",
         "education": [
             {
                 "school": "University of California, Davis",
@@ -54,13 +59,25 @@
                 "company": "Cisco",
                 "title": "Software Engineer",
                 "years": "July 2020 - Present",
-                "description": "Developing quality apps on MS390 and CAT9300"
+                "description": "I developed two authentication features in C++ (critical and failed auth) using Meraki APIs in a feature parity project to unify the MS390 and Catalyst 9300 switch OS. The corresponding dashboard UI fields were built using React.JS. I also had an opportunity to integrate a feature to Cisco’s IOx aPaaS framework in Python that allowed app images containerized via Docker and Kubernetes to be pulled from a public or private registry on several edge compute devices. The UI components on IOx were constructed in JavaScript for various application metrics such as app resource, lifecycle, and platform management. Upon successful completion of the features mentioned above, they were both presented to the Meraki and IOS-XE leadership teams respectively."
             },
             {
-                "company": "Cisco",
-                "title": "Software Engineer",
-                "years": "July 2020 - Present",
-                "description": "Developing quality apps on MS390 and CAT9300"
+                "company": "Symantec",
+                "title": "Software Engineering Intern",
+                "years": "June 2019 - September 2019",
+                "description": "During my internship at Symantec (now NortonLifeLock), I formulated SQL Queries and used Python’s Matplotlib and Scikit-learn to compile and graph relevant data points in an effort to determine trends in future customer payment behavior. These trends were predicted using Logistic Regression, Naïve Bayes, and Random Forest machine learning models. For accuracy, recall, and F1 score, I was able to achieve 99% in Binary Classiﬁcation and 80% in Multi-Class Classiﬁcation."
+            },
+            {
+                "company": "Steps Mobile",
+                "title": "Software Engineering Intern",
+                "years": "January 2019 - March 2019",
+                "description": "I interned at this startup during my junior year of college which created an application that rewards users by giving them a point per every step taken throughout the day and then use those points to purchase products at a discounted rate. I was able to automate the app's data logging in real-time by operating Google Firebase and constructing cloud functions in Node.JS on Google Cloud which subsequently saved the team 100+ hours of manual logging. I also helped support application development and began its initial deployment on the web by programming complex functions, procedures, triggers, and scripts in React/Redux. Furthermore, API requirements were defined using GraphQL and I collaborated with the Android and iOS developers in order to design a React Native component that logs the number of steps a user takes."
+            },
+            {
+                "company": "Speak to IoT",
+                "title": "Software Engineering Intern",
+                "years": "June 2018 - September 2018",
+                "description": "At this startup, I developed a simple network gateway in Python to discover and control 3rd party smart devices (i.e. Wemo, Hue, Amazon Alexa) that support UPnP or mDNS. The gateway was tested across multiple Linux platforms in order to be later integrated with the application's framework."
             }
         ],
         "skills": [
