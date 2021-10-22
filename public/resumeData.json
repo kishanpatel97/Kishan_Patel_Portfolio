@@ -1,0 +1,123 @@
+{
+    "main": {
+        "name": "Kishan Patel",
+        "occupation": "Full Stack Developer",
+        "description": "Technology enthusiast",
+        "image": "profilepic.jpg",
+        "bio": "Hi there! I'm Kishan and this is my website!",
+        "contactmessage": "Get in touch with me below!",
+        "email": "patel.kishan97@gmail.com",
+        "phone": "(925) 918-1526",
+        "address": {
+            "street": "2478 Via Espada",
+            "city": "Pleasanton",
+            "state": "California",
+            "zip": "94566"
+        },
+        "website": "https://www.papareact.com/course",
+        "resumedownload": "https://docs.google.com/document/d/1MudO5a3TSDVhasAVxYqvx-1lo9P-IK0epRg15rrMd9A/edit?usp=sharing",
+        "social": [
+            {
+                "name": "facebook",
+                "url": "https://www.facebook.com/kishanpatel1997/",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/kishanpatel97",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/kishanpatel97/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/kishanpatel97",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "My Programming Language Proficiency",
+        "education": [
+            {
+                "school": "University of California, Davis",
+                "degree": "Bachelor's Degree, Computer Science",
+                "graduated": "June 2020",
+                "description": "Activites & Societies: Project RISHI, HackDavis"
+            }
+        ],
+        "work": [
+            {
+                "company": "Cisco",
+                "title": "Software Engineer",
+                "years": "July 2020 - Present",
+                "description": "Developing quality apps on MS390 and CAT9300"
+            },
+            {
+                "company": "Cisco",
+                "title": "Software Engineer",
+                "years": "July 2020 - Present",
+                "description": "Developing quality apps on MS390 and CAT9300"
+            }
+        ],
+        "skills": [
+            {
+                "name": "ReactJS",
+                "level": "80%"
+            },
+            {
+                "name": "Python",
+                "level": "80%"
+            },
+            {
+                "name": "Git",
+                "level": "60%"
+            },
+            {
+                "name": "JavaScript",
+                "level": "100%"
+            },
+            {
+                "name": "NodeJS",
+                "level": "90%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Snapchat Clone (React JS)",
+                "category": "",
+                "image": "snapchat.jpg",
+                "url": "https://youtu.be/1kGISk5ft2w"
+            },
+            {
+                "title": "Gmail Clone (React JS)",
+                "category": "",
+                "image": "gmail.jpg",
+                "url": "https://youtu.be/b7nrXjS6Dqs"
+            },
+            {
+                "title": "LinkedIn Clone (React JS)",
+                "category": "",
+                "image": "linkedin.jpg",
+                "url": "https://youtu.be/QaYts9sPmcY"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [
+            {
+                "text": "Kishan is cool.",
+                "user": "Kishan Patel"
+            },
+            {
+                "text": "Kishan is AWESOME!",
+                "user": "Kishan Patel"
+            }
+        ]
+    }
+}
